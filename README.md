@@ -1,5 +1,9 @@
 # Fullstack Django and React
 
+Django is a free and open-source, Python-based web framework that follows the model–template–views architectural pattern.
+React is a free and open-source front-end JavaScript library for building user interfaces based on UI components.
+They can be used in tandem to develop secure, robust and feature-rich applications.
+
 Check out the LinkedIn learning course by Rudolph Olah [here](https://www.linkedin.com/learning/building-react-and-django-apps/create-a-full-stack-react-app-with-django-rest-framework?autoplay=true)
 
 Get started with Django:
